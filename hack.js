@@ -1,0 +1,7 @@
+alert("your phone has been hacked :)")
+alert("hahahahahahahahahahahahahahahahahahahahahahahahahahahahaha :)")
+alert("i see youuuu :)")
+alert("nice face :)")
+alert("it's look like...")
+alert("let me think...")
+alert("i found it.. !")
